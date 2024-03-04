@@ -50,8 +50,6 @@ section > p{
   color: white;
 }
 .imagem > p{
-  display: inline-block;
-  margin-right: 30px;
   background-color: #2020206b;
 }
 #img01{
