@@ -46,7 +46,7 @@ section > p{
 }
 
 .imagem{
-  padding-right: 40px;
+  display: block;
   color: white;
 }
 .imagem > p{
