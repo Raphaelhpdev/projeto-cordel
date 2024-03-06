@@ -53,10 +53,10 @@ section > p{
   background-color: #2020206b;
 }
 #img01{
-  background: url('../img/flor-tulipa.jpg') right center /cover fixed;
+  background: url('../img/flor-tulipa.jpg') left center /cover fixed;
 }
 #img02{
- background: url('../img/canoa.jpg') top center /cover fixed;
+ background: url('../img/canoa.jpg') top left /cover fixed;
 }
 
 @media screen{
