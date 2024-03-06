@@ -50,6 +50,7 @@ section > p{
   color: white;
 }
 .imagem > p{
+  width: 80%;
   background-color: #2020206b;
 }
 #img01{
